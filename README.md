@@ -1,4 +1,3 @@
-# COSC4370
+# Interactive Computer Graphics
 
-Name: Karla Castello
-PSID: 2138671
+Projects made in the Interacive Computer Graphics course at the University of Houston. Projects include code and report explaining each homework
